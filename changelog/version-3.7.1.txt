@@ -1,0 +1,16 @@
+
+admin/ajax_sidepanel.php
+admin/global/settings/theme.php
+
+includes/payments/yoomoney/pay.php
+
+php/global/html.php
+
+templates/classic-theme/css/app.css
+templates/classic-theme/css/landing/styles.css
+templates/classic-theme/global/html_content.php
+templates/classic-theme/global/membership_plan.php
+templates/classic-theme/images/app-store.png
+templates/classic-theme/images/google-play.png
+templates/classic-theme/index.php
+templates/classic-theme/overall_footer.php

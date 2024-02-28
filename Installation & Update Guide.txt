@@ -1,0 +1,23 @@
+Thank you for purchasing our script.
+
+
+
+IF YOU WANT TO UPDATE THE PREVIOUS VERSION THEN USE THE BELOW STEPS
+
+Step 1:- Please make a backup of your old files.
+Step 2:- Upload the "QUICKAI-CMS-VERSION.zip" file in the admin/uploads folder.
+Step 3:- Go to Admin > Update page.
+Step 4:- After uploading is completed you can see the install button.
+Step 5:- Click on the install button and wait for completion.
+Step 6:- Done.
+
+CHECK MORE DETAILS IN DOCUMENTATION OR CONTACT US FOR SUPPORT.
+
+
+DOCUMENTATION: https://bylancer.com/docs/openai/introduction
+SUPPORT: https://bylancer.ticksy.com/
+
+
+Thank you again,
+
+Bylancer

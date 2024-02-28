@@ -1,0 +1,13 @@
+
+admin/global/settings/ai.php
+
+includes/functions/func.app.php
+includes/payments/paytabs/ipn.php
+includes/payments/paytabs/pay.php
+
+templates/classic-theme/ai-chat.php
+templates/classic-theme/js/ai-chat.js
+templates/classic-theme/js/user-ajax.js
+templates/classic-theme/overall_footer.php
+
+

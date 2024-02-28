@@ -1,0 +1,3 @@
+admin/global/settings/ai.php
+
+templates/classic-theme/js/ai-chat.js
